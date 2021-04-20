@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    background-color: rgb(226, 226, 226);
+    background-color: white;
     font-family: 'Fredoka One', cursive;
 }
 
@@ -63,7 +63,7 @@ div{
 }
 
 #complete:hover{
-    background-color: blanchedalmond;
+    background-color: black;
 }
 
 
